@@ -1,0 +1,3 @@
+cisla = [i for i in input().split()]
+cisla = cisla[:-1]
+print(cisla)
