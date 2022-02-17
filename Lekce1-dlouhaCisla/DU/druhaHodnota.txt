@@ -1,0 +1,5 @@
+5P 2.3 Druhá největší hodnota
+
+V seznamu celých čísel ukončeném číslem -1, které již nepatří do seznamu, nalezněte a vypište druhou největší hodnotu. Seznam obsahuje vždy alespoň dvě různé hodnoty a čísla se v něm mohou libovolně opakovat. Všechna čísla jsou na vstupu zapsána na jednom řádku a jsou oddělena mezerami.
+
+Příklad: je-li na vstupu posloupnost 4 5 1 4 5 3 -1, bude správným výsledkem číslo 4.
